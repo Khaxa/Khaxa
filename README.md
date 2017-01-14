@@ -1,4 +1,4 @@
-# LinkHub
+# Khaxa
 Your own link saver, done right.
 
 :warning: **Currently under active development. Not yet ready for everyday use.** :warning:
@@ -23,7 +23,7 @@ Your own link saver, done right.
 - Automatic updates.
 
 ## License
-    LinkHub: Your own link saver, done right.
+    Khaxa: Your own link saver, done right.
     Copyright (C) 2017  dbautistav
 
     This program is free software: you can redistribute it and/or modify
