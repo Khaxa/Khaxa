@@ -11,7 +11,7 @@ Your own link saver, done right.
 - [Free (as in freedom)](#license): you can always adapt it to your own needs and share it with friends and the world!
 
 ## Backlog
-- Frees browser memory (LinkHub extension for FF mobile and Chromium-based desktop browsers).
+- Frees browser memory (Khaxa extension for FF mobile and Chromium-based desktop browsers).
 - Automatic tagging.
 - Persistence layer adapter options so the final user can choose where to store her data.
 - Don't save just the link, but actually download the content (where possible and makes sense).
