@@ -8,7 +8,7 @@ Your own link saver, done right.
 - Syncs in real time among devices (works offline too).
 - Always organized (tags, groups, categories, sites) to easily find them in the future.
 - Privacy in mind: you own your data (as much as possible, currently the only supported storage provider is google's firebase).
-- [Free (as in freedom)](#License): you can always adapt it to your own needs and share it with friends and the world!
+- [Free (as in freedom)](#license): you can always adapt it to your own needs and share it with friends and the world!
 
 ## Backlog
 - Frees browser memory (LinkHub extension for FF mobile and Chromium-based desktop browsers).
