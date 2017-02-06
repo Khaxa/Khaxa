@@ -7,6 +7,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AngularFireModule } from 'angularfire2';
 
 import { AppComponent } from './app.component';
+import { LinksComponent } from './links/links.component';
 
 //  TODO: implement config retriever and injector before bootstrap to provide this info!
 export const firebaseConfig = {
@@ -19,7 +20,8 @@ export const firebaseConfig = {
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    LinksComponent
   ],
   imports: [
     BrowserModule,
