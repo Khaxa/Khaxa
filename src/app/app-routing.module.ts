@@ -1,11 +1,14 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
+import { LinksComponent } from "./links/links.component";
+
 const routes: Routes = [
   {
+    // children: [],
+    component: LinksComponent,
     path: '',
-    children: []
-  }
+  },
 ];
 
 @NgModule({
